@@ -49,7 +49,7 @@
 #include <QtCore/QSet>
 #include <QtCore/QSocketNotifier>
 #include <QtBluetooth/QBluetoothAddress>
-#include "bluez/bluez_data_p.h"
+#include "bluez_data_p.h"
 
 QT_BEGIN_NAMESPACE
 

@@ -34,7 +34,7 @@
 
 #include "hcimanager_p.h"
 
-#include "qbluetoothsocket_p.h"
+#include "../qbluetoothsocket_p.h"
 
 #include <QtCore/QLoggingCategory>
 

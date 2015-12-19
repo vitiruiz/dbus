@@ -50,7 +50,7 @@
 #include <QtCore/QVector>
 #include <QFuture>
 #include <QFutureWatcher>
-#include <QtConcurrentRun>
+#include <QtConcurrent/QtConcurrentRun>
 
 static const QLatin1String agentPath("/qt/agent");
 static QAtomicInt agentPathCounter;
